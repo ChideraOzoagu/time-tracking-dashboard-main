@@ -1,0 +1,8 @@
+@media screen and (min-width: 670px){
+    .main-cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .section-header {
+        grid-column: 1/3;
+    }
+}
